@@ -1,2 +1,2 @@
 # penpot_fetcher
-Async integration of the Penpot's API
+Synchronous and Asynchronous integration of the Penpot's API.
